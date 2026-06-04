@@ -32,7 +32,7 @@ A retail business with branches across three cities needs to understand which lo
 
 Focuses on sales volume and revenue across cities, product lines, and payment methods.
 
-![Dashboard 1 — Supermarket Sales Intelligence](Dashboard_1.png)
+![Dashboard 1 — Supermarket Sales Intelligence](Supermarket Sales Intelligence.png)
 
 **Charts included:**
 - **KPI Summary Bar** — Top city, product line, total quantity sold, and total revenue at a glance
